@@ -1,0 +1,19 @@
+name: synth-env
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.10
+  - cudatoolkit=11.8  # specify the version of CUDA Toolkit you need
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip:
+    - ludwig
+    - plotly
+    - scikit-learn
+    - sdv
+    - jupyterlab
+    - pandas
