@@ -1,6 +1,6 @@
 {
     "command": "C:\\Users\\johna\\anaconda3\\envs\\synth-env\\lib\\site-packages\\ipykernel_launcher.py -f C:\\Users\\johna\\AppData\\Roaming\\jupyter\\runtime\\kernel-7671e4e7-88cb-49d7-94a8-d9fd14b251f2.json",
-    "commit_hash": "90fed0b986cd",
+    "commit_hash": "313c044935ad",
     "compute": {
         "gpu_type": "NVIDIA GeForce RTX 2060",
         "gpus_per_node": 1,

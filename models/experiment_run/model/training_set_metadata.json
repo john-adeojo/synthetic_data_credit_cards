@@ -1,6 +1,6 @@
 {
     "Amount": {
-        "mean": 96.42891693115234,
+        "mean": 90.17571258544922,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -10,7 +10,7 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 244.97573852539062
+        "std": 256.6825866699219
     },
     "Class": {
         "preprocessing": {
@@ -21,7 +21,7 @@
         }
     },
     "Time": {
-        "mean": 85358.46875,
+        "mean": 94116.03125,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -31,10 +31,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 48259.0625
+        "std": 47592.6328125
     },
     "V1": {
-        "mean": -2.441650390625,
+        "mean": -0.2062801569700241,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -44,10 +44,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 5.388324737548828
+        "std": 2.5876433849334717
     },
     "V10": {
-        "mean": -3.0422394275665283,
+        "mean": -0.23096805810928345,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -57,10 +57,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 4.413745403289795
+        "std": 1.796867847442627
     },
     "V11": {
-        "mean": 2.2571089267730713,
+        "mean": 0.16977570950984955,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -70,10 +70,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 2.9393210411071777
+        "std": 1.3994715213775635
     },
     "V12": {
-        "mean": -3.612351417541504,
+        "mean": -0.2685914933681488,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -83,10 +83,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 4.948366165161133
+        "std": 1.8668439388275146
     },
     "V13": {
-        "mean": -0.03938880190253258,
+        "mean": -0.0049038599245250225,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -96,10 +96,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.0129488706588745
+        "std": 0.9983976483345032
     },
     "V14": {
-        "mean": -4.162202835083008,
+        "mean": -0.31543633341789246,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -109,10 +109,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 5.009196758270264
+        "std": 1.9862961769104004
     },
     "V15": {
-        "mean": 0.061878472566604614,
+        "mean": 0.0060731228440999985,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -122,10 +122,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.9256752729415894
+        "std": 0.912907600402832
     },
     "V16": {
-        "mean": -2.3211092948913574,
+        "mean": -0.17054630815982819,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -135,10 +135,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 3.6096739768981934
+        "std": 1.4256703853607178
     },
     "V17": {
-        "mean": -4.020501613616943,
+        "mean": -0.27475911378860474,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -148,10 +148,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 6.145185470581055
+        "std": 2.0412724018096924
     },
     "V18": {
-        "mean": -1.3774973154067993,
+        "mean": -0.0957084521651268,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -161,10 +161,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 2.5880966186523438
+        "std": 1.1095300912857056
     },
     "V19": {
-        "mean": 0.4201483726501465,
+        "mean": 0.031551510095596313,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -174,10 +174,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.3343794345855713
+        "std": 0.8672314882278442
     },
     "V2": {
-        "mean": 1.9182555675506592,
+        "mean": 0.15121713280677795,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -187,10 +187,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 3.4945340156555176
+        "std": 1.941780924797058
     },
     "V20": {
-        "mean": 0.12444502115249634,
+        "mean": 0.010110338218510151,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -200,10 +200,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.8885048031806946
+        "std": 0.7865541577339172
     },
     "V21": {
-        "mean": 0.27590087056159973,
+        "mean": 0.01921743154525757,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -213,10 +213,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 2.061866283416748
+        "std": 0.8539930582046509
     },
     "V22": {
-        "mean": 0.020755203440785408,
+        "mean": -0.0028293547220528126,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -226,10 +226,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.9494625329971313
+        "std": 0.7362819910049438
     },
     "V23": {
-        "mean": -0.015509299002587795,
+        "mean": -0.0016082660295069218,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -239,10 +239,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.9327972531318665
+        "std": 0.6405524611473083
     },
     "V24": {
-        "mean": -0.052993129938840866,
+        "mean": -0.004047574009746313,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -252,10 +252,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.5441767573356628
+        "std": 0.6013208627700806
     },
     "V25": {
-        "mean": 0.0025348758790642023,
+        "mean": 0.0008907433948479593,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -265,10 +265,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.642585277557373
+        "std": 0.5304204225540161
     },
     "V26": {
-        "mean": 0.022589324042201042,
+        "mean": 0.0027508719358593225,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -278,10 +278,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.44150036573410034
+        "std": 0.48012474179267883
     },
     "V27": {
-        "mean": 0.22616448998451233,
+        "mean": 0.017715705558657646,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -291,10 +291,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.9193516969680786
+        "std": 0.4601533114910126
     },
     "V28": {
-        "mean": 0.04191204532980919,
+        "mean": 0.0043999431654810905,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -304,10 +304,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.4292258024215698
+        "std": 0.3367569148540497
     },
     "V3": {
-        "mean": -3.8341031074523926,
+        "mean": -0.28992050886154175,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -317,10 +317,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 6.130013942718506
+        "std": 2.4434845447540283
     },
     "V4": {
-        "mean": 2.392172336578369,
+        "mean": 0.18722493946552277,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -330,10 +330,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 3.1883819103240967
+        "std": 1.7653446197509766
     },
     "V5": {
-        "mean": -1.6733731031417847,
+        "mean": -0.1300690621137619,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -343,10 +343,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 4.021074295043945
+        "std": 1.8265818357467651
     },
     "V6": {
-        "mean": -0.9044781923294067,
+        "mean": -0.06214253976941109,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -356,10 +356,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.7760937213897705
+        "std": 1.391374945640564
     },
     "V7": {
-        "mean": -2.9288017749786377,
+        "mean": -0.22311566770076752,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -369,10 +369,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 5.580490589141846
+        "std": 2.1048834323883057
     },
     "V8": {
-        "mean": 0.38703539967536926,
+        "mean": 0.06455715000629425,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -382,10 +382,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 4.402895450592041
+        "std": 1.5458775758743286
     },
     "V9": {
-        "mean": -1.348426103591919,
+        "mean": -0.10224886238574982,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -395,8 +395,8 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 2.185450792312622
+        "std": 1.2734278440475464
     },
-    "checksum": "bWRXHwJUnfr5f_tz_kj8Cw==",
-    "data_train_hdf5_fp": "C:\\Users\\johna\\anaconda3\\envs\\synth-env\\synthetic_data_credit_cards\\notebook\\f91d12fb17e511ee84c48cae4cdc2a52.training.hdf5"
+    "checksum": "A3zr0Ksy9f_5ni4ioJxVKw==",
+    "data_train_hdf5_fp": "C:\\Users\\johna\\anaconda3\\envs\\synth-env\\synthetic_data_credit_cards\\notebook\\e858c0ee190811eea55c8cae4cdc2a52.training.hdf5"
 }

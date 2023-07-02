@@ -1,6 +1,6 @@
 {
     "Amount": {
-        "mean": 88.72274780273438,
+        "mean": 88.4800033569336,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -10,7 +10,7 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 253.32159423828125
+        "std": 254.93028259277344
     },
     "Class": {
         "preprocessing": {
@@ -21,7 +21,7 @@
         }
     },
     "Time": {
-        "mean": 94205.8671875,
+        "mean": 94792.5546875,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -31,10 +31,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 47528.73046875
+        "std": 47488.47265625
     },
     "V1": {
-        "mean": -0.18126791715621948,
+        "mean": 0.0009158537723124027,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -44,10 +44,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 2.461637496948242
+        "std": 1.958337426185608
     },
     "V10": {
-        "mean": -0.2268037497997284,
+        "mean": -0.0012499234871938825,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -57,10 +57,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.7587127685546875
+        "std": 1.0866587162017822
     },
     "V11": {
-        "mean": 0.16411523520946503,
+        "mean": 0.0005765039240941405,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -70,10 +70,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.3824028968811035
+        "std": 1.021130084991455
     },
     "V12": {
-        "mean": -0.26407670974731445,
+        "mean": -0.0014047479489818215,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -83,10 +83,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.8613229990005493
+        "std": 1.0017242431640625
     },
     "V13": {
-        "mean": -0.004228068049997091,
+        "mean": 6.570129335159436e-05,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -96,10 +96,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.9998472332954407
+        "std": 0.9954255819320679
     },
     "V14": {
-        "mean": -0.30640989542007446,
+        "mean": 3.752967586478917e-06,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -109,10 +109,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.977918267250061
+        "std": 0.9594564437866211
     },
     "V15": {
-        "mean": -0.0005648290389217436,
+        "mean": 2.3157686882768758e-05,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -122,10 +122,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.917007565498352
+        "std": 0.9140036702156067
     },
     "V16": {
-        "mean": -0.1620202511548996,
+        "mean": 0.0006677464116364717,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -135,10 +135,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.378915548324585
+        "std": 0.8773938417434692
     },
     "V17": {
-        "mean": -0.26524773240089417,
+        "mean": 0.0006163489888422191,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -148,10 +148,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 2.0047924518585205
+        "std": 0.8516122102737427
     },
     "V18": {
-        "mean": -0.09598180651664734,
+        "mean": -0.00034400541335344315,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -161,10 +161,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.1030418872833252
+        "std": 0.838030993938446
     },
     "V19": {
-        "mean": 0.029742196202278137,
+        "mean": 0.00011280820763204247,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -174,10 +174,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.8706182837486267
+        "std": 0.8143060207366943
     },
     "V2": {
-        "mean": 0.14007502794265747,
+        "mean": -0.0003841416910290718,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -187,10 +187,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.9029715061187744
+        "std": 1.656602382659912
     },
     "V20": {
-        "mean": 0.0059182411059737206,
+        "mean": 0.00039756292244419456,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -200,10 +200,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.7803450226783752
+        "std": 0.7740446329116821
     },
     "V21": {
-        "mean": 0.023722846060991287,
+        "mean": 0.0002154822286684066,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -213,10 +213,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.8718712329864502
+        "std": 0.7326166033744812
     },
     "V22": {
-        "mean": -0.0009422358125448227,
+        "mean": -0.0012154222931712866,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -226,10 +226,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.7426964640617371
+        "std": 0.7253112196922302
     },
     "V23": {
-        "mean": -0.0007885856903158128,
+        "mean": 0.00017468072474002838,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -239,10 +239,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.6367263793945312
+        "std": 0.6271033883094788
     },
     "V24": {
-        "mean": -0.004854333121329546,
+        "mean": -0.00021698149794247001,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -252,10 +252,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.6005325317382812
+        "std": 0.6054458618164062
     },
     "V25": {
-        "mean": 3.8224658055696636e-05,
+        "mean": -0.000979274627752602,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -265,10 +265,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.5307139754295349
+        "std": 0.5217641592025757
     },
     "V26": {
-        "mean": 0.0033386496361345053,
+        "mean": -0.0001915942266350612,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -278,10 +278,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.48026642203330994
+        "std": 0.48244336247444153
     },
     "V27": {
-        "mean": 0.01811828650534153,
+        "mean": -3.1993386073736474e-05,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -291,10 +291,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.4534687399864197
+        "std": 0.40182068943977356
     },
     "V28": {
-        "mean": 0.0038929772563278675,
+        "mean": 0.0002573581878095865,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -304,10 +304,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 0.337327778339386
+        "std": 0.32977649569511414
     },
     "V3": {
-        "mean": -0.287368506193161,
+        "mean": -0.0009200598578900099,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -317,10 +317,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 2.4056968688964844
+        "std": 1.514545202255249
     },
     "V4": {
-        "mean": 0.18748216331005096,
+        "mean": -0.001458288636058569,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -330,10 +330,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.765486478805542
+        "std": 1.4158531427383423
     },
     "V5": {
-        "mean": -0.12115481495857239,
+        "mean": 0.0009965596254915,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -343,10 +343,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.786653995513916
+        "std": 1.3876672983169556
     },
     "V6": {
-        "mean": -0.06501166522502899,
+        "mean": -0.0006129427929408848,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -356,10 +356,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.3830299377441406
+        "std": 1.3368034362792969
     },
     "V7": {
-        "mean": -0.2048574835062027,
+        "mean": 0.001089555793441832,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -369,10 +369,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.9774383306503296
+        "std": 1.243492603302002
     },
     "V8": {
-        "mean": 0.04173237830400467,
+        "mean": -0.00038333344855345786,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -382,10 +382,10 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.6526519060134888
+        "std": 1.1886426210403442
     },
     "V9": {
-        "mean": -0.10373146086931229,
+        "mean": 0.0009614354348741472,
         "preprocessing": {
             "computed_fill_value": 0.0,
             "computed_outlier_fill_value": 0.0,
@@ -395,8 +395,8 @@
             "outlier_strategy": null,
             "outlier_threshold": 3.0
         },
-        "std": 1.2801564931869507
+        "std": 1.0975531339645386
     },
-    "checksum": "63poRW_MIpmYvJf0MZSCkA==",
-    "data_train_hdf5_fp": "C:\\Users\\johna\\anaconda3\\envs\\synth-env\\synthetic_data_credit_cards\\notebook\\841eb04017ef11eeb4c28cae4cdc2a52.training.hdf5"
+    "checksum": "zZaVrYBpTiUWbVTMsmvYDw==",
+    "data_train_hdf5_fp": "C:\\Users\\johna\\anaconda3\\envs\\synth-env\\synthetic_data_credit_cards\\notebook\\01756738190e11ee87208cae4cdc2a52.training.hdf5"
 }
