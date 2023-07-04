@@ -1,0 +1,225 @@
+{
+    "batch_size": 128,
+    "best_eval_metric_checkpoint_number": 1,
+    "best_eval_metric_epoch": 0,
+    "best_eval_metric_steps": 1247,
+    "best_eval_metric_value": 0.919114351272583,
+    "best_eval_test_metrics": {
+        "Class": {
+            "accuracy": 0.9988808035850525,
+            "loss": 0.008849432691931725,
+            "precision": 0.7666666507720947,
+            "recall": 0.5542168617248535,
+            "roc_auc": 0.8951531648635864,
+            "specificity": 0.9996922016143799
+        },
+        "combined": {
+            "loss": 0.008932585929869674
+        }
+    },
+    "best_eval_train_metrics": {
+        "Class": {
+            "accuracy": 0.9977490901947021,
+            "loss": 0.019385363906621933,
+            "precision": 0.3164556920528412,
+            "recall": 0.2757352888584137,
+            "roc_auc": 0.7344397306442261,
+            "specificity": 0.9989825487136841
+        },
+        "combined": {
+            "loss": 0.019465714089164976
+        }
+    },
+    "best_eval_validation_metrics": {
+        "Class": {
+            "accuracy": 0.9990344047546387,
+            "loss": 0.008330758661031723,
+            "precision": 0.7931034564971924,
+            "recall": 0.5897436141967773,
+            "roc_auc": 0.919114351272583,
+            "specificity": 0.9997361898422241
+        },
+        "combined": {
+            "loss": 0.008412284223595634
+        }
+    },
+    "best_increase_batch_size_eval_metric": Infinity,
+    "checkpoint_number": 1,
+    "epoch": 2,
+    "last_improvement_steps": 0,
+    "last_increase_batch_size": 0,
+    "last_increase_batch_size_eval_metric_improvement": 0,
+    "last_increase_batch_size_steps": 0,
+    "last_learning_rate_reduction": 0,
+    "last_learning_rate_reduction_steps": 0,
+    "learning_rate": 0.001,
+    "num_increases_batch_size": 0,
+    "num_reductions_learning_rate": 0,
+    "steps": 1801,
+    "test_metrics": {
+        "Class": {
+            "accuracy": [
+                [
+                    0,
+                    1247,
+                    0.9988808035850525
+                ]
+            ],
+            "loss": [
+                [
+                    0,
+                    1247,
+                    0.008849432691931725
+                ]
+            ],
+            "precision": [
+                [
+                    0,
+                    1247,
+                    0.7666666507720947
+                ]
+            ],
+            "recall": [
+                [
+                    0,
+                    1247,
+                    0.5542168617248535
+                ]
+            ],
+            "roc_auc": [
+                [
+                    0,
+                    1247,
+                    0.8951531648635864
+                ]
+            ],
+            "specificity": [
+                [
+                    0,
+                    1247,
+                    0.9996922016143799
+                ]
+            ]
+        },
+        "combined": {
+            "loss": [
+                [
+                    0,
+                    1247,
+                    0.008932585929869674
+                ]
+            ]
+        }
+    },
+    "train_metrics": {
+        "Class": {
+            "accuracy": [
+                [
+                    0,
+                    1247,
+                    0.9977490901947021
+                ]
+            ],
+            "loss": [
+                [
+                    0,
+                    1247,
+                    0.019385363906621933
+                ]
+            ],
+            "precision": [
+                [
+                    0,
+                    1247,
+                    0.3164556920528412
+                ]
+            ],
+            "recall": [
+                [
+                    0,
+                    1247,
+                    0.2757352888584137
+                ]
+            ],
+            "roc_auc": [
+                [
+                    0,
+                    1247,
+                    0.7344397306442261
+                ]
+            ],
+            "specificity": [
+                [
+                    0,
+                    1247,
+                    0.9989825487136841
+                ]
+            ]
+        },
+        "combined": {
+            "loss": [
+                [
+                    0,
+                    1247,
+                    0.019465714089164976
+                ]
+            ]
+        }
+    },
+    "tune_checkpoint_num": 0,
+    "validation_metrics": {
+        "Class": {
+            "accuracy": [
+                [
+                    0,
+                    1247,
+                    0.9990344047546387
+                ]
+            ],
+            "loss": [
+                [
+                    0,
+                    1247,
+                    0.008330758661031723
+                ]
+            ],
+            "precision": [
+                [
+                    0,
+                    1247,
+                    0.7931034564971924
+                ]
+            ],
+            "recall": [
+                [
+                    0,
+                    1247,
+                    0.5897436141967773
+                ]
+            ],
+            "roc_auc": [
+                [
+                    0,
+                    1247,
+                    0.919114351272583
+                ]
+            ],
+            "specificity": [
+                [
+                    0,
+                    1247,
+                    0.9997361898422241
+                ]
+            ]
+        },
+        "combined": {
+            "loss": [
+                [
+                    0,
+                    1247,
+                    0.008412284223595634
+                ]
+            ]
+        }
+    }
+}
