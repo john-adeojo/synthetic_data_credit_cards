@@ -11,9 +11,9 @@ dependencies:
   - torchvision=0.15.2
   - torchaudio=2.0.2
   - pip:
-    - ludwig==0.7.4
-    - plotly==5.15.0
-    - scikit-learn==1.1.3
-    - sdv==1.2.0
-    - jupyterlab==3.5.3
-    - pandas==2.0.3
+    - ludwig=0.7.4
+    - plotly=5.15.0
+    - scikit-learn=1.1.3
+    - sdv=1.2.0
+    - jupyterlab=3.5.3
+    - pandas=2.0.3
